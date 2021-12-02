@@ -1,6 +1,6 @@
 # Work-in-Horizon-Robotics
 beelab各函数功能及运行流程介绍
-![流程图](/pipline.jpeg )
+![avatar](/pipline.jpeg )
 Requirements
 Python版本为3.8.10
 
